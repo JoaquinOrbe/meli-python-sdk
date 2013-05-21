@@ -21,13 +21,12 @@ classifiers = [
 root_dir = os.path.dirname(__file__)
 if not root_dir:
     root_dir = '.'
-long_desc = open(root_dir + '/README.md').read()
 
 setup(
     name='meli-python-sdk',
     version=version,
-    url='https://github.com/estrategiasdiferenciadas/meli-python-sdk',
-    download_url='https://github.com/estrategiasdiferenciadas/meli-python-sdk',
+    url='https://github.com/joacoRamone/meli-python-sdk',
+    download_url='https://github.com/joacoRamone/meli-python-sdk',
     author='Joaquin Orbe',
     author_email='joaquin_orbe@edsa.com.ar',
     license='The MIT License',
@@ -37,6 +36,5 @@ setup(
     py_modules=['melipy'],
     description='Mercado Libre Python SDK',
     classifiers=classifiers,
-    long_description=long_desc,
     keywords='Mercado Libre SDK',
 )
