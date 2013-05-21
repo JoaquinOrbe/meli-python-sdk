@@ -2,6 +2,9 @@
 
 Python SDK for MercadoLibre's Platform.
 
+
+NOTE: we DO NOT have any rights on Mercado Libre trademark. This work is just to contribute to the Open Source community using public MeLi APIs.
+
 ## How do I install it?
 
     1) Download or clone repository 
@@ -110,9 +113,13 @@ result = meli.query_url(resource_part=meliresources.USER_PAYMENT_METHODS_DETAILS
 print result
 ```
 
+## Contribution
+
+Feel free to get the code and play around with it. Any contribution is fully appreciated.
+
 ## Contact
 
-Joaquin Orbe
+* Joaquin Orbe
 * e-mail: joaquin_orbe (at) edsa (dot) com (dot) ar
 * Twitter: @joacOrbe
 * web: http://www.edsa.com.ar
