@@ -21,7 +21,8 @@ This module has two main components:
 * meliresources.py -> Mercado Libre resources from http://developers.mercadolibre.com/API-directory/
 
 ## How do I use it?
-
+We use MeliPy in our Django projects, but it also integrates within any other framework out there (tested in Web2Py, for instance).
+    
 ### Create an instance of MeliCore class
  
 ```python
@@ -112,6 +113,9 @@ result = meli.query_url(resource_part=meliresources.USER_PAYMENT_METHODS_DETAILS
                                      access_token=True)  # we need the access token for data update
 print result
 ```
+
+
+
 
 ## Contribution
 
