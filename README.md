@@ -113,9 +113,9 @@ print result
 ## Contact
 
 Joaquin Orbe
-    * e-mail: joaquin_orbe (at) edsa (dot) com (dot) ar
-    * Twitter: @joacOrbe
-    * web: http://www.edsa.com.ar
+* e-mail: joaquin_orbe (at) edsa (dot) com (dot) ar
+* Twitter: @joacOrbe
+* web: http://www.edsa.com.ar
     
 ## License
 
