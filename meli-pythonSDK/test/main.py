@@ -13,8 +13,6 @@ CLIENT_ID = 'your app id'
 CLIENT_SECRET = 'your app secret'
 USERID = 'user id'
 USERSID = 'users id'
-CODE = ''
-ACCESS_TOKEN = ''
 
 def print_test_message(f):
     def inner(*args,**kargs):
@@ -88,8 +86,10 @@ def test_add_payment_method(meli):
         
 if __name__ == '__main__':
     meli = MeliCore(client_id=CLIENT_ID,client_secret=CLIENT_SECRET)
-    #meli.authorize(CODE, redirect_URI="http://www.google.com")
-    #meli.set_access_token(ACCESS_TOKEN)
+    
+    #auth_url = meli.get_auth_url("your_redirect_URI")
+    #meli.authorize("SERVER_GENERATED_AUTHORIZATION_CODE", redirect_URI="your_redirect_URI")
+    
     #test_user(meli)
     #test_payment_methods(meli)
     #test_users_details(meli)
