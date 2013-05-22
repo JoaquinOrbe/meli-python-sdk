@@ -30,10 +30,11 @@ setup(
     author='Joaquin Orbe',
     author_email='joaquin_orbe@edsa.com.ar',
     license='The MIT License',
+    packages=['melipy'],
     install_requires=[
         'requests',
     ],
-    py_modules=['melipy'],
+    py_modules=['core'],
     description='Mercado Libre Python SDK',
     classifiers=classifiers,
     keywords='Mercado Libre SDK',
