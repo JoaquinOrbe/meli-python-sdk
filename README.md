@@ -48,6 +48,8 @@ If the user grants your application the requested data permission the OAuth Dial
 
     http://YOUR_URL?code=SERVER_GENERATED_AUTHORIZATION_CODE
 
+Catch this URL and get the SERVER_GENERATED_AUTHORIZATION_CODE to use it in next step.
+
 Step 2: Exchange the code for a token
 
 By using this code you can perform the next step: app authentication.
