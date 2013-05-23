@@ -97,5 +97,7 @@ if __name__ == '__main__':
     #test_payment_method_details(meli)
     #test_delete_payment_method(meli)
     #test_add_payment_method(meli)
-    #print json.dumps(meli.resource_helper(meliresources.NEW_ORDER),indent=4)
+    
+    # using the helper
+    print json.dumps(meli.resource_helper(meliresources.NEW_ORDER),indent=4)
     
