@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
 @author: Joaquin Orbe 
-@email: joaquin_orbe@edsa.com.ar
+@email: joaquinorbe@gmail.com
 @twitter: joacOrbe
-@web: www.edsa.com.ar   
 '''
 
 API_ROOT_URL = 'https://api.mercadolibre.com'

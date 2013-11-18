@@ -32,7 +32,7 @@ setup(
     url='https://github.com/joacoRamone/meli-python-sdk',
     download_url='https://github.com/joacoRamone/meli-python-sdk',
     author='Joaquin Orbe',
-    author_email='joaquin_orbe@edsa.com.ar',
+    author_email='joaquinorbe@gmail.com',
     license='The MIT License',
     packages=['melipy'],
     install_requires=[

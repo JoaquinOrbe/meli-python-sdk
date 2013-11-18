@@ -1,8 +1,7 @@
 '''
 @author: Joaquin Orbe 
-@email: joaquin_orbe@edsa.com.ar
+@email: joaquinorbe@gmail.com
 @twitter: joacOrbe
-@web: www.edsa.com.ar   
 '''
 import json
 
