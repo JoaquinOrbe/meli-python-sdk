@@ -36,3 +36,6 @@ nosetests.xml
 
 # Eclipse folder
 .settings
+
+# PyCharm
+.idea
