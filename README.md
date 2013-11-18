@@ -126,9 +126,8 @@ Feel free to get the code and play around with it. Any contribution is fully app
 ## Contact
 
 * Joaquin Orbe
-* e-mail: joaquin_orbe (at) edsa (dot) com (dot) ar
+* e-mail: joaquinorbe (at) gmail (dot) com
 * Twitter: @joacOrbe
-* web: http://www.edsa.com.ar
     
 ## License
 
